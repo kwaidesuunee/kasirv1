@@ -1,4 +1,4 @@
-#Kasir Kelompok 4 TI.23.C7
+Kasir Kelompok 4 TI.23.C7
 
 Dibuat menggunakan Visual Basic
 
@@ -14,6 +14,6 @@ Cara Menjalankan :
 3. import file sql ke database kosong, file sql sudah di upload di folder database
 4. klik start di visual studio
 
-Gunakan akun ini untuk masuk:
+Akun Login :
 * **Username:** admin
 * **Password:** admin
