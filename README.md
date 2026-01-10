@@ -14,5 +14,5 @@ Dibuat menggunakan Visual Basic
 4. klik start di visual studio
 
 #Akun Login :
-Username : admin
-Password : admin
+*Username : admin
+*Password : admin
